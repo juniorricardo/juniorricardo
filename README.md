@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junior</h1>
 <h3 align="center">🎉 Welcome to my GitHub profile, a passionate developer from Argentina</h3>
 
-- 🔭 I’m currently working on [CDA Informatica](http://www.cdainfo.com/es/)
+- 🔭 I’m currently working on [Bull Market Brokers S.A.](https://bullmarketbrokers.com/)
 
 - 👯 I’m looking to collaborate on [.NET Core](https://github.com/dotnet/core)
 
